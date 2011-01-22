@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Term-ExtendedColor-TTY
-version:            0.011
+version:            0.015
 abstract:           Set colors in the TTY
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
