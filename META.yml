@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Term-ExtendedColor-TTY
-version:            0.015
-abstract:           Set colors in the TTY
+version:            0.022
+abstract:           Set colors in the Linux VC/TTY
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
 license:            perl
@@ -12,6 +12,9 @@ build_requires:
     ExtUtils::MakeMaker:  0
 requires:
     Test::More:  0
+resources:
+    bugtracker:  https://github.com/trapd00r/Term-ExtendedColor-TTY/issues
+    repository:  https://github.com/trapd00r/Term-ExtendedColor-TTY
 no_index:
     directory:
         - t
