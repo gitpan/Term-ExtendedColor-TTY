@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Term-ExtendedColor-TTY
-version:            0.026
+version:            0.028
 abstract:           Set colors in the Linux VC/TTY
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
